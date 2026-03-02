@@ -9,10 +9,10 @@ This is a terminal-based Snake and Ladder game developed using Java.
 
 ## How to Run
 Compile:
-javac SnakeLadderGame.java
-javac Launcher.java
+- javac SnakeLadderGame.java
+- javac Launcher.java
 Run:
-java Launcher
+- java Launcher
 
 ## Author
 Sreeparna Mukherjee
