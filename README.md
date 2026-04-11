@@ -15,5 +15,4 @@ Compile:
 Run:
 - java Launcher
 
-## Author
-Sreeparna Mukherjee
+
